@@ -1,0 +1,20 @@
+========== HEADER ==========
+.nav__logo
+Halloween
+
+.nav__link
+Home - About Us - Portfolio - Contact Us
+
+
+========== HOME ==========
+.home__subtitle
+TRICK OR TREAT
+
+.home__title
+HALLOWEEN
+
+.home__description
+Halloween, an annual festivity observed on the eve of October 31st, entails nocturnal promenades through urban landscapes, accompanied by convivial cohorts, indulging in the age-old tradition of 'trick or treating'. Subsequently, it culminates in an evening shrouded in terror, amidst the ethereal glow of a resplendent full moon, wherein one immerses oneself in the chilling ambiance of the night.
+
+.home__button
+CLICK HERE
